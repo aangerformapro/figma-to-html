@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap');
 
 :root{
     --white-text: rgba(239, 239, 239,1);
@@ -9,7 +10,7 @@
 }
 
 html, *{
-    font-family: 'Nunito', sans-serif;
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
 }
 
 
@@ -38,4 +39,8 @@ html, *{
 
 .landing-page-title, footer{
     color: var(--white-text);
+}
+
+.icon{
+    
 }
