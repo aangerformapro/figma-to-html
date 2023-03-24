@@ -4,7 +4,7 @@
   "description": "1er tp formation",
   "main": "index.js",
   "scripts": {
-        "serve": "php -S 0.0.0.0:80 -t public"
+        "serve": "php -S 0.0.0.0:8080 -t public"
   },
   "author": "Aymeric Anger",
   "license": "UNLICENCED"
